@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Priyansh Srivastava 👋
 
-<!--
-**PriyanshSrivastava1718/PriyanshSrivastava1718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech Computer Science Engineering** student at **PSIT, Kanpur**
 
-Here are some ideas to get you started:
+💻 Passionate about **Data Structures & Algorithms, Web Development, and AI/ML**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Current Focus
+
+- 📚 Strengthening DSA using C++
+- 🌐 Learning Full-Stack Web Development
+- 🤖 Completing IBM Generative AI
+- 💻 Building real-world projects
+
+---
+
+## 📊 Coding Progress
+
+- 🔥 LeetCode: **101+ Problems Solved**
+- ⭐ HackerRank: **13k+ Points**
+- 💙 Daily GitHub Contributions
+
+---
+
+## 📂 Current Projects
+
+- 🚀 DSA-Cpp
+- 🛰️ ClearSight
+- ⚖️ BioBalance
+---
+
+## 🎯 Goals for 2026
+
+- ✅ 180+ LeetCode Problems
+- ✅ 15k+ HackerRank Points
+- ✅ Strong GitHub Portfolio
+- ✅ Internship Ready
+
+---
+
+### Thanks for visiting my profile! 😊
