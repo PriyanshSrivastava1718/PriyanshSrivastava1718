@@ -10,15 +10,15 @@
 
 - 📚 Strengthening DSA using C++
 - 🌐 Learning Full-Stack Web Development
-- 🤖 Completing IBM Generative AI
-- 💻 Building real-world projects
+- 🤖 Completing IBM Generative AI Certification
+- 💻 Building Real-World Projects
 
 ---
 
 ## 📊 Coding Progress
 
-- 🔥 LeetCode: **101+ Problems Solved**
-- ⭐ HackerRank: **13k+ Points**
+- 🔥 LeetCode: **105+ Problems Solved**
+- ⭐ HackerRank: **12.5k+ Points**
 - 💙 Daily GitHub Contributions
 
 ---
@@ -28,6 +28,8 @@
 - 🚀 DSA-Cpp
 - 🛰️ ClearSight
 - ⚖️ BioBalance
+- 📰 Truth Beacon
+
 ---
 
 ## 🎯 Goals for 2026
