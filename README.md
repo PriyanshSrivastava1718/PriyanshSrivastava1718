@@ -36,8 +36,8 @@
 
 ## 📊 Coding Progress
 
-- 🔥 LeetCode: **105+ Problems Solved**
-- ⭐ HackerRank: **12.5k+ Points**
+- 🔥 LeetCode: **110+ Problems Solved**
+- ⭐ HackerRank: **13k+ Points**
 - 💙 Daily GitHub Contributions
 
 ---
