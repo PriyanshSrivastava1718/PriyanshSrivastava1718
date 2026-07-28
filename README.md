@@ -36,7 +36,7 @@
 
 ## 📊 Coding Progress
 
-- 🔥 LeetCode: **110+ Problems Solved**
+- 🔥 LeetCode: **120+ Problems Solved**
 - ⭐ HackerRank: **13k+ Points**
 - 💙 Daily GitHub Contributions
 
@@ -53,7 +53,7 @@
 
 ## 🎯 Goals for 2026
 
-- ✅ 180+ LeetCode Problems
+- ✅ 200+ LeetCode Problems
 - ✅ 15k+ HackerRank Points
 - ✅ Strong GitHub Portfolio
 - ✅ Build Full-Stack Projects
