@@ -64,6 +64,7 @@ I enjoy solving problems through **Data Structures & Algorithms**, building mode
 # 📜 Certifications
 
 - 🏅 DSA with C++ — MindSeekers Technologies
+- 🏅 Master Gen-AI & Prompt Engineering: ChatGPT, Gemini & Claude — Udemy  
 - 🏅 Foundations in Generative AI — IBM SkillsBuild
 - 🏅 Introduction to Generative AI – Art of the Possible — AWS Training & Certification
 - 🏅 HTML5 – The Language — Infosys Springboard
