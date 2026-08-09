@@ -1,37 +1,34 @@
 # Hi, I'm Priyansh Srivastava 👋
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-DSA-blue" />
-  <img src="https://img.shields.io/badge/Web%20Development-Learning-success" />
-  <img src="https://img.shields.io/badge/Generative%20AI-Certified-orange" />
-</p>
+Third-Year B.Tech Computer Science Engineering student at **PSIT, Kanpur**.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-120+-FFA116?logo=leetcode" />
-  <img src="https://img.shields.io/badge/HackerRank-13K+-2EC866?logo=hackerrank" />
-  <img src="https://img.shields.io/badge/GitHub-Portfolio-black?logo=github" />
-</p>
+I enjoy solving problems with **Data Structures & Algorithms**, building software projects, and exploring **AI/ML and Generative AI**. I am currently focused on strengthening my development fundamentals while building practical projects and maintaining an active GitHub portfolio.
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-🎓 Third-Year **B.Tech Computer Science Engineering** student at **PSIT, Kanpur**.
-
-I enjoy solving problems through **Data Structures & Algorithms**, building modern **Web Applications**, and exploring **Artificial Intelligence**. My goal is to continuously improve my software development skills by building practical projects and maintaining an active GitHub portfolio.
-
----
-
-## 🚀 Current Focus
-
-- 📚 Mastering Data Structures & Algorithms using **C++**
-- 🌐 Learning **Front-End Web Development** (HTML • CSS • JavaScript)
-- 🤖 Exploring **Generative AI** and AI-powered applications
-- 💻 Building real-world software projects
+- 🎓 B.Tech CSE student at PSIT, Kanpur
+- 💻 Solving DSA primarily in C++
+- 🌐 Learning Front-End Web Development
+- 🤖 Exploring AI/ML, Generative AI, RAG and LLM-based applications
+- 📈 Actively building projects and improving my problem-solving skills
+- 💼 Open to Software Development and AI/ML internship opportunities
 
 ---
 
-# 💻 Tech Stack
+## Current Focus
+
+- Data Structures & Algorithms using **C++**
+- Front-End Web Development — HTML, CSS and JavaScript
+- Generative AI and LLM-based applications
+- Retrieval-Augmented Generation (RAG)
+- Building and documenting practical software projects
+- Git and GitHub workflow
+
+---
+
+# Tech Stack
 
 ### Languages
 
@@ -45,12 +42,21 @@ I enjoy solving problems through **Data Structures & Algorithms**, building mode
 - CSS *(Learning)*
 - JavaScript *(Learning)*
 
+### AI / Machine Learning
+
+- Generative AI
+- Large Language Models
+- Prompt Engineering
+- Retrieval-Augmented Generation (RAG)
+- Embeddings
+- AI-assisted application development
+
 ### Core Concepts
 
 - Data Structures & Algorithms
 - Object-Oriented Programming
-- Prompt Engineering
-- Generative AI
+- Database Management Systems
+- Problem Solving
 
 ### Tools
 
@@ -61,74 +67,116 @@ I enjoy solving problems through **Data Structures & Algorithms**, building mode
 
 ---
 
-# 📜 Certifications
+# Certifications
 
-- 🏅 DSA with C++ — MindSeekers Technologies
-- 🏅 Master Gen-AI & Prompt Engineering: ChatGPT, Gemini & Claude — Udemy  
-- 🏅 Foundations in Generative AI — IBM SkillsBuild
-- 🏅 Introduction to Generative AI – Art of the Possible — AWS Training & Certification
-- 🏅 HTML5 – The Language — Infosys Springboard
-- 🏅 Programming Fundamentals using Python — Infosys Springboard
-- 🏅 C# (Basic) — HackerRank
-
----
-
-# 📊 Coding Progress
-
-- 🔥 **LeetCode:** 120+ Problems Solved
-- ⭐ **HackerRank:** 13K+ Points
-- 💙 Building projects and maintaining an active GitHub portfolio
+- DSA with C++ — MindSeekers Technologies
+- [Master Gen-AI & Prompt Engineering: ChatGPT, Gemini & Claude](https://www.linkedin.com/feed/update/urn:li:activity:7490432598452809728/) — Udemy
+- Foundations in Generative AI — IBM SkillsBuild
+- Introduction to Generative AI – Art of the Possible — AWS Training & Certification
+- HTML5 – The Language — Infosys Springboard
+- Programming Fundamentals using Python — Infosys Springboard
+- C# (Basic) — HackerRank
 
 ---
 
-# 🚀 Featured Projects
+# Coding Progress
 
-### ⚖️ BioBalance
+- **LeetCode:** 135+ Problems Solved
+- **HackerRank:** 13K+ Points
+- **HackerRank:** 4★ Problem Solving | 3★ C++ | 2★ Python
+
+---
+
+# Featured Projects
+
+### OrbitDesk Support Agent
+
+A knowledge-grounded customer support agent built around a multi-stage workflow for **triage, retrieval, generation and verification**.
+
+Key components include:
+
+- Four-way request triage: answerable, clarification, escalation and out-of-scope
+- **Qwen 2.5 3B Instruct** for triage classification
+- **MiniLM** embeddings for semantic retrieval
+- Retrieval-Augmented Generation using a curated OrbitDesk knowledge base
+- Independent answer verification
+- Structured output and schema validation
+- Bounded revision/retry flow
+- Safe failure handling when the answer cannot be reliably grounded
+- Workflow-based orchestration and measurable model latency
+
+[View Repository](https://github.com/PriyanshSrivastava1718/orbitdesk-support-agent)
+
+---
+
+### BioBalance
+
 AI-assisted healthcare and nutrition management platform featuring secure authentication, encrypted health data, interactive dashboards, and an AI-powered nutrition assistant.
 
-### 🛰️ ClearSight
-Generative AI-based cloud reconstruction proposal for ISRO LISS-IV satellite imagery developed for the ISRO Bharatiya Antariksh Hackathon (BAH) 2026.
+---
 
-### 📰 Truth Beacon
+### ClearSight
+
+Generative AI-based cloud reconstruction proposal for ISRO LISS-IV satellite imagery, developed for the **ISRO Bharatiya Antariksh Hackathon (BAH) 2026**.
+
+---
+
+### Truth Beacon
+
 Explainable AI-powered fact verification platform designed to verify claims using trusted sources and AI-assisted evidence analysis.
 
-### 🚀 DSA-Cpp
-A growing collection of C++ solutions organized by Data Structures & Algorithms topics.
+---
 
-### 🌐 Web-Development-Journey
-My complete learning journey in web development, including notes, practice files, and hands-on projects built while learning HTML, CSS, JavaScript, and backend development.
+### DSA-Cpp
+
+A growing collection of C++ solutions covering Data Structures & Algorithms topics and regular problem-solving practice.
 
 ---
 
-# 🏆 Achievements
+### Web-Development-Journey
 
-- 🎯 120+ LeetCode Problems Solved
-- ⭐ 13K+ HackerRank Points
-- 🏅 4★ Problem Solving | 3★ C++ | 2★ Python on HackerRank
-- 🛰️ Participant – ISRO Bharatiya Antariksh Hackathon (BAH) 2026
+My learning journey in web development, including notes, practice files, and hands-on projects while learning HTML, CSS, JavaScript and backend development.
 
 ---
 
-# 🎯 Goals for 2026
+# Achievements
 
-- ✅ 200+ LeetCode Problems
-- ✅ 15K+ HackerRank Points
-- ✅ Build multiple Full-Stack Web Applications
-- ✅ Strengthen my GitHub Portfolio
-- ✅ Secure a Software Development Internship
+- 135+ LeetCode Problems Solved
+- 13K+ HackerRank Points
+- 4★ Problem Solving | 3★ C++ | 2★ Python on HackerRank
+- Participant — ISRO Bharatiya Antariksh Hackathon (BAH) 2026
 
 ---
 
-# 🌱 Currently Learning
+# Goals for 2026
+
+- Reach 200+ LeetCode problems
+- Reach 15K+ HackerRank points
+- Build multiple full-stack web applications
+- Develop more practical AI/ML projects
+- Strengthen my GitHub portfolio
+- Secure a Software Development or AI/ML internship
+
+---
+
+# Currently Learning
 
 - Advanced HTML
 - CSS
 - JavaScript
 - Git & GitHub
 - Full-Stack Web Development
+- Generative AI and LLM-based applications
 
 ---
 
-### ⭐ *"Always Learning. Always Building. Always Improving."*
+## Let's Connect
 
-Thanks for visiting my profile! 😊
+- [LinkedIn](https://www.linkedin.com/in/priyanshsrivastava/)
+- [GitHub](https://github.com/PriyanshSrivastava1718)
+- [LeetCode](https://leetcode.com/)
+- [HackerRank](https://www.hackerrank.com/)
+
+---
+
+> Always Learning. Always Building. Always Improving.
