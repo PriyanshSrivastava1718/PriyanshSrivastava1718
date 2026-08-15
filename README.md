@@ -77,7 +77,7 @@ Hands-on web development learning repository covering HTML, CSS, JavaScript, and
 
 - Participant — **ISRO Bharatiya Antariksh Hackathon (BAH) 2026**
 - Former school cricket team captain and representative
-- 135+ LeetCode Problems Solved
+- 140+ LeetCode Problems Solved
 - 13K+ HackerRank Points
 
 ---
