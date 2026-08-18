@@ -1,6 +1,6 @@
 # Hi, I'm Priyansh Srivastava
 
-**Computer Science Engineering Student | C++ & DSA | Java | AI/ML | Generative AI**
+**Computer Science Engineering Student | C++ & DSA | Java | AI/ML | Generative AI** 
 
 Third-year B.Tech CSE student at **PSIT, Kanpur**, focused on problem solving, software development, and AI-driven applications. Currently exploring LLMs, RAG systems, and practical AI/ML development while strengthening my software engineering fundamentals.
 
