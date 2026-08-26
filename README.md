@@ -32,7 +32,7 @@ Knowledge-grounded customer support agent combining **LLM triage, semantic retri
 
 ### ClearSight
 
-Generative AI-based cloud reconstruction concept for **ISRO LISS-IV satellite imagery**, developed for the **ISRO Bharatiya Antariksh Hackathon (BAH) 2026**.
+Generative AI-based cloud reconstruction proposal for **ISRO LISS-IV satellite imagery**, developed for the **ISRO Bharatiya Antariksh Hackathon (BAH) 2026**.
 
 ### BioBalance
 
@@ -54,9 +54,9 @@ Hands-on web development learning repository covering HTML, CSS, JavaScript, and
 
 ## Coding Progress
 
-- **LeetCode:** 135+ Problems Solved
+- **LeetCode:** 150+ Problems Solved
 - **HackerRank:** 13K+ Points
-- **HackerRank:** 4★ Problem Solving · 3★ C++ · 2★ Python
+- **HackerRank:** 4★ Problem Solving · 4★ C++ · 2★ Python
 
 ---
 
@@ -70,15 +70,17 @@ Hands-on web development learning repository covering HTML, CSS, JavaScript, and
 - HTML5 – The Language — Infosys Springboard
 - Programming Fundamentals using Python — Infosys Springboard
 - C# (Basic) — HackerRank
+- **Certificate of Participation — ISRO Bharatiya Antariksh Hackathon (BAH) 2026**
 
 ---
 
 ## Achievements
 
 - Participant — **ISRO Bharatiya Antariksh Hackathon (BAH) 2026**
+- Successful idea submission — **ClearSight**
 - Former school cricket team captain and representative
-- 140+ LeetCode Problems Solved
-- 13K+ HackerRank Points
+- **150+ LeetCode Problems Solved**
+- **13K+ HackerRank Points**
 
 ---
 
