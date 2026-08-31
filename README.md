@@ -6,6 +6,18 @@ Third-year B.Tech CSE student at **PSIT, Kanpur**, focused on problem solving, s
 
 ---
 
+## 🎓 Academic Status
+
+| Institution | Program | Duration | Score |
+|---|---|---|---:|
+| **PSIT, Kanpur** | B.Tech, Computer Science & Engineering | 2024 – Present | **7.80 CGPA** |
+| **Delhi Public School, Lucknow** | Class XII (CBSE) | 2024 | **83.4%** |
+| **Delhi Public School, Lucknow** | Class X (CBSE) | 2022 | **84.66%** |
+
+Currently strengthening my foundations in DSA and software development while exploring AI/ML, Generative AI, LLMs, and RAG systems.
+
+---
+
 ## Technical Focus
 
 **Languages:** C++ · Java · Python · C
@@ -54,7 +66,7 @@ Hands-on web development learning repository covering HTML, CSS, JavaScript, and
 
 ## Coding Progress
 
-- **LeetCode:** 150+ Problems Solved
+- **LeetCode:** 155+ Problems Solved
 - **HackerRank:** 13K+ Points
 - **HackerRank:** 4★ Problem Solving · 4★ C++ · 2★ Python
 
@@ -79,7 +91,7 @@ Hands-on web development learning repository covering HTML, CSS, JavaScript, and
 - Participant — **ISRO Bharatiya Antariksh Hackathon (BAH) 2026**
 - Successful idea submission — **ClearSight**
 - Former school cricket team captain and representative
-- **150+ LeetCode Problems Solved**
+- **155+ LeetCode Problems Solved**
 - **13K+ HackerRank Points**
 
 ---
@@ -96,6 +108,7 @@ Hands-on web development learning repository covering HTML, CSS, JavaScript, and
 
 ## Connect
 
+- **Email:** [priyanshsrivastava70@gmail.com](mailto:priyanshsrivastava70@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/priyanshsrivastava/)
 - [LeetCode](https://leetcode.com/u/PriyanshSrivastava17/)
 - [HackerRank](https://www.hackerrank.com/profile/cs1m_2410282)
