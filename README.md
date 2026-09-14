@@ -1,6 +1,6 @@
 # Hi, I'm Priyansh Srivastava
 
-**Computer Science Engineering Student | C++ & DSA | Python | AI/ML | Generative AI** 
+**Computer Science Engineering Student | C++ & DSA | Python | AI/ML | Generative AI**
 
 Third-year B.Tech CSE student at **PSIT, Kanpur**, focused on problem solving, software development, and AI-driven applications. Currently exploring LLMs, RAG systems, and practical AI/ML development while strengthening my software engineering fundamentals.
 
@@ -66,7 +66,7 @@ Hands-on web development learning repository covering HTML, CSS, JavaScript, and
 
 ## Coding Progress
 
-- **LeetCode:** 155+ Problems Solved
+- **LeetCode:** 200+ Problems Solved
 - **HackerRank:** 13K+ Points
 - **HackerRank:** 4★ Problem Solving · 4★ C++ · 2★ Python
 
@@ -91,14 +91,14 @@ Hands-on web development learning repository covering HTML, CSS, JavaScript, and
 - Participant — **ISRO Bharatiya Antariksh Hackathon (BAH) 2026**
 - Successful idea submission — **ClearSight**
 - Former school cricket team captain and representative
-- **155+ LeetCode Problems Solved**
+- **200+ LeetCode Problems Solved**
 - **13K+ HackerRank Points**
 
 ---
 
 ## Current Goals
 
-- 200+ LeetCode problems
+- 250+ LeetCode problems
 - 15K+ HackerRank points
 - Build and deploy full-stack applications
 - Deepen practical AI/ML and LLM development
