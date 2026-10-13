@@ -1,116 +1,233 @@
-# Hi, I'm Priyansh Srivastava
- 
-**Computer Science Engineering Student | C++ & DSA | Python | AI/ML | Generative AI**
+# Hi, I'm Priyansh Srivastava 👋
 
-Third-year B.Tech CSE student at **PSIT, Kanpur**, focused on problem solving, software development, and AI-driven applications. Currently exploring LLMs, RAG systems, and practical AI/ML development while strengthening my software engineering fundamentals.
+### Computer Science Engineering Student | C++ & DSA | AI/ML | Generative AI
 
----
+I'm a third-year B.Tech Computer Science and Engineering student at **Pranveer Singh Institute of Technology (PSIT), Kanpur**, passionate about problem-solving, software development, and building practical AI-driven applications.
 
-## 🎓 Academic Status
+My current focus is on strengthening my software engineering fundamentals while exploring **Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), semantic retrieval, and AI-powered applications**.
 
-| Institution | Program | Duration | Score |
-|---|---|---|---:|
-| **PSIT, Kanpur** | B.Tech, Computer Science & Engineering | 2024 – Present | **7.80 CGPA** |
-| **Delhi Public School, Lucknow** | Class XII (CBSE) | 2024 | **83.4%** |
-| **Delhi Public School, Lucknow** | Class X (CBSE) | 2022 | **84.66%** |
-
-Currently strengthening my foundations in DSA and software development while exploring AI/ML, Generative AI, LLMs, and RAG systems.
+I believe in learning by building, solving problems independently, and continuously improving the quality of my work.
 
 ---
 
-## Technical Focus
+## 🎓 Education
 
-**Languages:** C++ · Java · Python · C
-
-**Core:** Data Structures & Algorithms · OOP · DBMS · Problem Solving
-
-**AI/ML:** Generative AI · LLMs · RAG · Embeddings · Prompt Engineering
-
-**Web:** HTML · CSS · JavaScript · Backend Fundamentals
-
-**Tools:** Git · GitHub · VS Code · Google Colab
+| Institution | Qualification | Duration | Performance |
+|---|---|---|---|
+| **PSIT, Kanpur** | B.Tech — Computer Science & Engineering | 2024–Present | 7.73/10 average SGPA |
+| Delhi Public School, Lucknow | Class XII — CBSE | 2024 | 83.4% |
+| Delhi Public School, Lucknow | Class X — CBSE | 2022 | 84.66% |
 
 ---
 
-## Featured Projects
+## 🛠️ Technical Skills
 
-### OrbitDesk Support Agent
+**Languages**
+- C++
+- C
+- Python
+- Java
+- JavaScript
 
-Knowledge-grounded customer support agent combining **LLM triage, semantic retrieval, RAG generation, answer verification, and structured output validation**.
+**Computer Science Fundamentals**
+- Data Structures and Algorithms
+- Object-Oriented Programming
+- Database Management Systems
+- Operating Systems
+- Problem Solving
 
-- Qwen 2.5 3B for request triage
-- MiniLM embeddings for semantic retrieval
-- Bounded revision and safe-failure workflow
+**AI & Machine Learning**
+- Generative AI
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Semantic Search and Embeddings
+- Prompt Engineering
+- LangGraph
+- Sentence-Transformers
+- Hugging Face Transformers
+- Local LLM Inference
 
-### ClearSight
+**Web Development**
+- HTML5
+- CSS3
+- JavaScript
+- Frontend Development
+- Backend Fundamentals
 
-Generative AI-based cloud reconstruction proposal for **ISRO LISS-IV satellite imagery**, developed for the **ISRO Bharatiya Antariksh Hackathon (BAH) 2026**.
-
-### BioBalance
-
-AI-assisted healthcare and nutrition management platform featuring authentication, protected user data, interactive dashboards, and an AI-powered nutrition assistant.
-
-### Truth Beacon
-
-Explainable AI-powered fact verification platform designed to analyze claims using trusted sources and AI-assisted evidence analysis.
-
-### DSA-Cpp
-
-C++ repository containing Data Structures & Algorithms implementations and regular problem-solving practice.
-
-### Web-Development-Journey
-
-Hands-on web development learning repository covering HTML, CSS, JavaScript, and backend fundamentals.
-
----
-
-## Coding Progress
-
-- **LeetCode:** 200+ Problems Solved
-- **HackerRank:** 13K+ Points
-- **HackerRank:** 4★ Problem Solving · 4★ C++ · 2★ Python
-
----
-
-## Certifications
-
-- Git for Geeks: Quick Git Training for Developers — Udemy
-- Master Gen-AI & Prompt Engineering: ChatGPT, Gemini & Claude — Udemy
-- DSA with C++ — MindSeekers Technologies
-- Foundations in Generative AI — IBM SkillsBuild
-- Introduction to Generative AI – Art of the Possible — AWS Training & Certification
-- HTML5 – The Language — Infosys Springboard
-- Programming Fundamentals using Python — Infosys Springboard
-- C# (Basic) — HackerRank
-- **Certificate of Participation — ISRO Bharatiya Antariksh Hackathon (BAH) 2026**
+**Tools**
+- Git & GitHub
+- Visual Studio Code
+- Google Colab
 
 ---
 
-## Achievements
+## 🚀 Featured Projects
 
-- Participant — **ISRO Bharatiya Antariksh Hackathon (BAH) 2026**
-- Successful idea submission — **ClearSight**
-- Former school cricket team captain and representative
-- **200+ LeetCode Problems Solved**
-- **13K+ HackerRank Points**
+### 1. OrbitDesk — Local-First AI Support Agent
+
+**Tech Stack:** Python · LangGraph · Qwen2.5 · Sentence-Transformers
+
+A knowledge-grounded support agent designed to process requests, retrieve relevant information, generate responses, and verify answer quality.
+
+- Implemented four-way request triage and semantic retrieval.
+- Integrated local LLM-based response generation.
+- Added answer verification and bounded revision workflows.
+- Used schema-validated outputs, routing tests, and safe-failure handling.
+- Designed deterministic filtering to prevent superseded cases from influencing responses.
+
+🔗 [View Repository](https://github.com/PriyanshSrivastava1718/OrbitDesk-Support-Agent)
+
+### 2. SMRITI — Healthcare & Caregiver Support
+
+**Tech Stack:** HTML5 · CSS3 · JavaScript · LocalStorage
+
+A healthcare assistance prototype designed to support caregivers and help manage medication schedules and safety-related information for people who may need additional assistance.
+
+- Built an interactive caregiver dashboard.
+- Implemented medication scheduling and dose-status tracking.
+- Added browser-based data persistence.
+- Designed biometric activity logs, privacy controls, and configurable safety settings.
+- Included simulated alerts to demonstrate the intended safety-monitoring workflow.
+- Selected for **Tech Expo 2026 Institute-Level Screening Round 2 at PSIT**.
+
+*The current prototype uses simulated functionality for features requiring future backend or hardware integration.*
+
+🔗 [View Repository](https://github.com/PriyanshSrivastava1718/SMRITI)
+
+### 3. ClearSight — Satellite Image Cloud Removal
+
+**Focus:** Geospatial Imaging · Generative AI · Image Reconstruction
+
+A project developed for the **ISRO Bharatiya Antariksh Hackathon 2026**, focused on reconstructing cloud-obscured regions in ISRO LISS-IV satellite imagery.
+
+- Explores multi-temporal reconstruction using cloudy and cloud-free image pairs.
+- Focuses on image preprocessing, registration, cloud masking, and reconstruction.
+- Identifies PSNR, SSIM, and RMSE as potential evaluation metrics.
+- Investigates approaches to recover useful geographical information from cloud-obscured imagery.
+
+*The project is in development; model training and evaluation remain future work.*
+
+🔗 [View Repository](https://github.com/PriyanshSrivastava1718/ClearSight)
+
+### 4. BioBalance — Healthcare & Nutrition Platform
+
+**Tech Stack:** HTML5 · CSS3 · JavaScript
+
+A health and nutrition management frontend focused on presenting health information and personalized nutrition assistance through an accessible interface.
+
+- Developed a responsive frontend.
+- Created authentication interfaces and health-trend dashboards.
+- Designed health-metric tracking and nutrition-assistance interfaces.
+- Explored personalized food-suggestion workflows.
+- Contributed to feature planning, UI/UX, AI-assisted code customization, debugging, and iterative testing.
+
+*Backend integration remains future work.*
+
+🔗 [View Repository](https://github.com/PriyanshSrivastava1718/BioBalance)
+
+### 5. TruthBeacon — Explainable Fact Verification
+
+**Focus:** AI-Assisted Analysis · Evidence Retrieval · Explainability
+
+An explainable fact-verification project intended to help analyze claims using supporting evidence and trusted sources.
+
+- Designed a modular approach to claim extraction and evidence retrieval.
+- Explores claims submitted through text, URLs, documents, and screenshots.
+- Focuses on transparent analysis and evidence-backed reports.
+
+*The project is in development; proposed capabilities should not be interpreted as a fully implemented verification engine.*
+
+🔗 [View Repository](https://github.com/PriyanshSrivastava1718/TruthBeacon)
+
+### 6. DSA-Cpp — Data Structures & Algorithms
+
+**Tech Stack:** C++
+
+A repository documenting my DSA learning journey, algorithm implementations, and problem-solving practice in C++.
+
+- Practice data structures and algorithms.
+- Implement solutions to coding problems.
+- Strengthen problem-solving, pattern recognition, and code quality.
+
+🔗 [View Repository](https://github.com/PriyanshSrivastava1718/DSA-Cpp)
+
+### 7. Web-Development-Journey — Web Development Learning
+
+**Focus:** HTML5 · CSS3 · JavaScript · Backend Fundamentals
+
+A hands-on repository documenting my web development learning journey through practical exercises and implementations.
+
+- Practice HTML structure and semantic elements.
+- Explore CSS styling, layouts, and responsive design.
+- Learn JavaScript for interactive web pages.
+- Progress toward backend development fundamentals.
+
+🔗 [View Repository](YOUR_WEB_DEVELOPMENT_REPOSITORY_LINK)
 
 ---
 
-## Current Goals
+## 💻 Competitive Programming
 
-- 250+ LeetCode problems
-- 15K+ HackerRank points
-- Build and deploy full-stack applications
-- Deepen practical AI/ML and LLM development
-- Secure a Software Development or AI/ML internship
+### LeetCode
+
+- **250+ problems solved**
+- Practice across Easy, Medium, and Hard problems.
+- Focused on pattern recognition, independent problem-solving, and long-term retention.
+
+🔗 [LeetCode Profile](https://leetcode.com/u/PriyanshSrivastava17/)
+
+### HackerRank
+
+- **13,667+ Hackos**
+- ⭐⭐⭐⭐ Problem Solving
+- ⭐⭐⭐⭐ C++
+- ⭐ Python
+- ⭐ C
+
+🔗 [HackerRank Profile](https://www.hackerrank.com/profile/cs1m_2410282)
 
 ---
 
-## Connect
+## 🏆 Achievements
 
-- **Email:** [priyanshsrivastava70@gmail.com](mailto:priyanshsrivastava70@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/priyanshsrivastava/)
-- [LeetCode](https://leetcode.com/u/PriyanshSrivastava17/)
-- [HackerRank](https://www.hackerrank.com/profile/cs1m_2410282)
+- **Participant — ISRO Bharatiya Antariksh Hackathon 2026**
+- ClearSight idea submission for the ISRO Bharatiya Antariksh Hackathon.
+- **Selected for Tech Expo 2026 Institute-Level Screening Round 2** with SMRITI.
+- Former school cricket team captain and representative.
+
+---
+
+## 📜 Certifications
+
+- **DSA with C++** — MindSeekers Technologies
+- **Git for Geeks: Quick Git Training for Developers** — Udemy
+- **Getting Started with Generative AI** — IBM SkillsBuild
+- **Introduction to Generative AI: Art of the Possible** — AWS Training & Certification
+- **Fundamentals of Machine Learning and Artificial Intelligence** — AWS Training & Certification
+- **Master Gen-AI & Prompt Engineering: ChatGPT, Gemini & Claude** — Udemy
+- **Programming Fundamentals using Python** — Infosys Springboard
+- **HTML5 — The Language** — Infosys Springboard
+
+---
+
+## 🎯 Current Focus
+
+- Strengthening DSA fundamentals and independent problem-solving.
+- Building practical AI applications with LLMs and retrieval systems.
+- Improving backend and full-stack development skills.
+- Advancing existing projects through implementation, testing, and documentation.
+- Preparing for software development and AI/ML internship opportunities.
+
+---
+
+## 🤝 Connect With Me
+
+- 📧 **Email:** [priyanshsrivastava70@gmail.com](mailto:priyanshsrivastava70@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/priyanshsrivastava](https://www.linkedin.com/in/priyanshsrivastava/)
+- 💻 **GitHub:** [PriyanshSrivastava1718](https://github.com/PriyanshSrivastava1718)
+- 🧩 **LeetCode:** [PriyanshSrivastava17](https://leetcode.com/u/PriyanshSrivastava17/)
+- 🏅 **HackerRank:** [cs1m_2410282](https://www.hackerrank.com/profile/cs1m_2410282)
+
+---
 
 > Building consistently. Learning deeply. Solving better.
