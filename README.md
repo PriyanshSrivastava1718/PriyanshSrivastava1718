@@ -12,11 +12,11 @@ I believe in learning by building, solving problems independently, and continuou
 
 ## 🎓 Education
 
-| Institution                  | Qualification                           | Duration     | Performance          |
-| ---------------------------- | --------------------------------------- | ------------ | -------------------- |
-| **PSIT, Kanpur**             | B.Tech — Computer Science & Engineering | 2024–Present | 7.73/10 average SGPA |
-| Delhi Public School, Lucknow | Class XII — CBSE                        | 2024         | 83.4%                |
-| Delhi Public School, Lucknow | Class X — CBSE                          | 2022         | 84.66%               |
+| Institution                  | Qualification                           | Duration     | Performance                  |
+| ---------------------------- | --------------------------------------- | ------------ | ---------------------------- |
+| **PSIT, Kanpur**             | B.Tech — Computer Science & Engineering | 2024–Present | SGPA: 7.74, 8.20, 7.46, 7.78 |
+| Delhi Public School, Lucknow | Class XII — CBSE                        | 2024         | 83.4%                        |
+| Delhi Public School, Lucknow | Class X — CBSE                          | 2022         | 84.66%                       |
 
 ---
 
@@ -80,7 +80,7 @@ A knowledge-grounded support agent designed to process requests, retrieve releva
 * Used schema-validated outputs, routing tests, and safe-failure handling.
 * Designed deterministic filtering to prevent superseded cases from influencing responses.
 
-🔗 [View Repository](https://github.com/PriyanshSrivastava1718/OrbitDesk-Support-Agent)
+🔗 [View Repository](https://github.com/Priy​​anshSrivastava1718/OrbitDesk-Support-Agent)
 
 ### 2. SMRITI — Healthcare & Caregiver Support
 
@@ -97,7 +97,7 @@ A healthcare assistance prototype designed to support caregivers and help manage
 
 *The current prototype uses simulated functionality for features requiring future backend or hardware integration.*
 
-🔗 [View Repository](https://github.com/PriyanshSrivastava1718/SMRITI)
+🔗 [View Repository](https://github.com/Priy​​anshSrivastava1718/SMRITI)
 
 ### 3. ClearSight — Satellite Image Cloud Removal
 
@@ -112,7 +112,7 @@ A project developed for the **ISRO Bharatiya Antariksh Hackathon 2026**, focused
 
 *The project is in development; model training and evaluation remain future work.*
 
-🔗 [View Repository](https://github.com/PriyanshSrivastava1718/ClearSight)
+🔗 [View Repository](https://github.com/Priy​​anshSrivastava1718/ClearSight)
 
 ### 4. BioBalance — Healthcare & Nutrition Platform
 
@@ -128,7 +128,7 @@ A health and nutrition management frontend focused on presenting health informat
 
 *Backend integration remains future work.*
 
-🔗 [View Repository](https://github.com/PriyanshSrivastava1718/BioBalance)
+🔗 [View Repository](https://github.com/Priy​​anshSrivastava1718/BioBalance)
 
 ### 5. TruthBeacon — Explainable Fact Verification
 
@@ -142,7 +142,7 @@ An explainable fact-verification project intended to help analyze claims using s
 
 *The project is in development; proposed capabilities should not be interpreted as a fully implemented verification engine.*
 
-🔗 [View Repository](https://github.com/PriyanshSrivastava1718/TruthBeacon)
+🔗 [View Repository](https://github.com/Priy​​anshSrivastava1718/TruthBeacon)
 
 ### 6. DSA-Cpp — LeetCode & DSA Practice
 
@@ -155,7 +155,7 @@ A repository documenting my Data Structures and Algorithms journey through C++ i
 * Document approaches and complexity analysis.
 * Prioritize understanding and retention over simply increasing problem counts.
 
-🔗 [View Repository](https://github.com/PriyanshSrivastava1718/DSA-Cpp)
+🔗 [View Repository](https://github.com/Priy​​anshSrivastava1718/DSA-Cpp)
 
 ### 7. GFG-DSA — GeeksforGeeks Practice
 
@@ -168,7 +168,7 @@ A dedicated repository for documenting my GeeksforGeeks problem-solving journey 
 * Document approaches, time complexity, auxiliary space, and key learnings.
 * Strengthen problem-solving skills through consistent practice.
 
-🔗 [View Repository](https://github.com/PriyanshSrivastava1718/GFG-DSA)
+🔗 [View Repository](https://github.com/Priy​​anshSrivastava1718/GFG-DSA)
 
 ### 8. Web-Development-Journey — Web Development Learning
 
@@ -181,7 +181,7 @@ A hands-on repository documenting my web development learning journey through pr
 * Learn JavaScript for interactive web pages.
 * Progress toward backend development fundamentals.
 
-🔗 [View Repository](https://github.com/PriyanshSrivastava1718/Web-Development-Journey)
+🔗 [View Repository](https://github.com/Priy​​anshSrivastava1718/Web-Development-Journey)
 
 ---
 
@@ -189,16 +189,16 @@ A hands-on repository documenting my web development learning journey through pr
 
 ### LeetCode
 
-* **265 problems solved**
-* Practice across Easy, Medium, and Hard problems.
-* **108-day maximum streak** and 169 active days in my latest recorded snapshot.
+* **295 problems solved** 
+* **100 Medium problems solved** 
+* Maximum streak: 117 days.
 * Focused on pattern recognition, independent problem-solving, and long-term retention.
 
-🔗 [LeetCode Profile](https://leetcode.com/u/PriyanshSrivastava17/)
+🔗 [LeetCode Profile](https://leetcode.com/u/Priy​​anshSrivastava17/)
 
 ### HackerRank
 
-* **13,667+ Hackos**
+* **13,900+ Hackos**
 * ⭐⭐⭐⭐ Problem Solving
 * ⭐⭐⭐⭐ C++
 * ⭐ Python
@@ -214,7 +214,7 @@ A hands-on repository documenting my web development learning journey through pr
 * Submitted ClearSight for the ISRO Bharatiya Antariksh Hackathon.
 * **Selected for Tech Expo 2026 Institute-Level Screening Round 2** with SMRITI.
 * Former school cricket team captain and representative.
-* Built a consistent coding practice habit, with a maximum LeetCode streak of 108 days.
+* Built a consistent coding practice habit, with a maximum LeetCode streak of 113 days.
 
 ---
 
@@ -233,10 +233,10 @@ A hands-on repository documenting my web development learning journey through pr
 
 ## 🎯 Current Focus
 
-* **DSA:** Pointers completed; currently learning recursion, with divide and conquer next.
+* **DSA:** Completed recursion; moving on to Divide & Conquer.
 * **Problem Solving:** Strengthening pattern recognition, independent reasoning, and solution retention.
 * **AI Engineering:** Building practical applications using LLMs, semantic retrieval, and retrieval-augmented generation.
-* **Software Development:** Improving backend and full-stack development skills.
+* **Web Development:** Completed HTML and currently learning CSS, with JavaScript and backend development ahead.
 * **Projects:** Advancing existing projects through implementation, testing, and documentation.
 * **Career Preparation:** Preparing for software development and AI/ML internship opportunities.
 
@@ -246,10 +246,18 @@ A hands-on repository documenting my web development learning journey through pr
 
 * 📧 **Email:** [priyanshsrivastava70@gmail.com](mailto:priyanshsrivastava70@gmail.com)
 * 💼 **LinkedIn:** [linkedin.com/in/priyanshsrivastava](https://www.linkedin.com/in/priyanshsrivastava/)
-* 💻 **GitHub:** [PriyanshSrivastava1718](https://github.com/PriyanshSrivastava1718)
-* 🧩 **LeetCode:** [PriyanshSrivastava17](https://leetcode.com/u/PriyanshSrivastava17/)
+* 💻 **GitHub:** [PriyanshSrivastava1718](https://github.com/Priy​​anshSrivastava1718)
+* 🧩 **LeetCode:** [PriyanshSrivastava17](https://leetcode.com/u/Priy​​anshSrivastava17/)
 * 🏅 **HackerRank:** [cs1m_2410282](https://www.hackerrank.com/profile/cs1m_2410282)
 
 ---
 
 > Building consistently. Learning deeply. Solving better.
+
+---
+
+## 🐍 My GitHub Contribution Snake
+
+<p align="center">
+  <img src="[https://raw.githubusercontent.com/PriyanshSrivastava1718/PriyanshSrivastava1718/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/PriyanshSrivastava1718/Priy​​anshSrivastava1718/output/github-contribution-grid-snake-dark.svg)" alt="GitHub Contribution Snake Animation" />
+</p>
