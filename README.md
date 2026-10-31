@@ -75,7 +75,7 @@ A knowledge-grounded support agent designed to process requests, retrieve releva
 - Used schema-validated outputs, routing tests, and safe-failure handling.
 - Designed deterministic filtering to prevent superseded cases from influencing responses.
 
-🔗 [View Repository](https://github.com/Priy​​anshSrivastava1718/OrbitDesk-Support-Agent)
+🔗 [View Repository](https://github.com/PriyanshSrivastava1718/orbitdesk-support-agent)
 
 ### 2. SMRITI — Healthcare & Caregiver Support
 
@@ -92,7 +92,7 @@ A healthcare assistance prototype designed to support caregivers and help manage
 
 *The current prototype uses simulated functionality for features requiring future backend or hardware integration.*
 
-🔗 [View Repository](https://github.com/Priy​​anshSrivastava1718/SMRITI)
+🔗 [View Repository](https://github.com/PriyanshSrivastava1718/SMRITI)
 
 ### 3. ClearSight — Satellite Image Cloud Removal
 
@@ -107,7 +107,7 @@ A project developed for the **ISRO Bharatiya Antariksh Hackathon 2026**, focused
 
 *The project is in development; model training and evaluation remain future work.*
 
-🔗 [View Repository](https://github.com/Priy​​anshSrivastava1718/ClearSight)
+🔗 [View Repository](https://github.com/PriyanshSrivastava1718/ClearSight)
 
 ### 4. BioBalance — Healthcare & Nutrition Platform
 
@@ -123,7 +123,7 @@ A health and nutrition management frontend focused on presenting health informat
 
 *Backend integration remains future work.*
 
-🔗 [View Repository](https://github.com/Priy​​anshSrivastava1718/BioBalance)
+🔗 [View Repository](https://github.com/PriyanshSrivastava1718/BioBalance)
 
 ### 5. TruthBeacon — Explainable Fact Verification
 
@@ -137,7 +137,7 @@ An explainable fact-verification project intended to help analyze claims using s
 
 *The project is in development; proposed capabilities should not be interpreted as a fully implemented verification engine.*
 
-🔗 [View Repository](https://github.com/Priy​​anshSrivastava1718/TruthBeacon)
+🔗 [View Repository](https://github.com/PriyanshSrivastava1718/TruthBeacon)
 
 ### 6. DSA-Cpp — LeetCode & DSA Practice
 
@@ -150,7 +150,7 @@ A repository documenting my Data Structures and Algorithms journey through C++ i
 - Document approaches and complexity analysis.
 - Prioritize understanding and retention over simply increasing problem counts.
 
-🔗 [View Repository](https://github.com/Priy​​anshSrivastava1718/DSA-Cpp)
+🔗 [View Repository](https://github.com/PriyanshSrivastava1718/DSA-Cpp)
 
 ### 7. GFG-DSA — GeeksforGeeks Practice
 
@@ -163,7 +163,7 @@ A dedicated repository for documenting my GeeksforGeeks problem-solving journey 
 - Document approaches, time complexity, auxiliary space, and key learnings.
 - Strengthen problem-solving skills through consistent practice.
 
-🔗 [View Repository](https://github.com/Priy​​anshSrivastava1718/GFG-DSA)
+🔗 [View Repository](https://github.com/PriyanshSrivastava1718/GFG-DSA)
 
 ### 8. Web-Development-Journey — Web Development Learning
 
@@ -176,7 +176,7 @@ A hands-on repository documenting my web development learning journey through pr
 - Learn JavaScript for interactive web pages.
 - Progress toward backend development fundamentals.
 
-🔗 [View Repository](https://github.com/Priy​​anshSrivastava1718/Web-Development-Journey)
+🔗 [View Repository](https://github.com/PriyanshSrivastava1718/Web-Development-Journey)
 
 ---
 
@@ -189,7 +189,7 @@ A hands-on repository documenting my web development learning journey through pr
 - Maximum streak: 117 days.
 - Focused on pattern recognition, independent problem-solving, and long-term retention.
 
-🔗 [LeetCode Profile](https://leetcode.com/u/Priy​​anshSrivastava17/)
+🔗 [LeetCode Profile](https://leetcode.com/u/PriyanshSrivastava17/)
 
 ### HackerRank
 
@@ -254,5 +254,9 @@ A hands-on repository documenting my web development learning journey through pr
 ## 🐍 My GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PriyanshSrivastava1718/PriyanshSrivastava1718/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PriyanshSrivastava1718/PriyanshSrivastava1718/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PriyanshSrivastava1718/PriyanshSrivastava1718/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/PriyanshSrivastava1718/PriyanshSrivastava1718/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
