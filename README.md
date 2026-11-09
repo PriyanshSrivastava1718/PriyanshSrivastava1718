@@ -1,5 +1,5 @@
 # Hi, I'm Priyansh Srivastava 👋
-
+ 
 ### Computer Science Engineering Student | C++ & DSA | AI/ML | Generative AI
 
 I'm a third-year B.Tech Computer Science and Engineering student at **Pranveer Singh Institute of Technology (PSIT), Kanpur**, passionate about problem-solving, software development, and building practical AI-driven applications.
